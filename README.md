@@ -77,12 +77,12 @@ To replicate this build, the following PCB layouts are required:
 Internal assembly and detailed realization stages:
 
 <p align="center">
-  <img src="gallery/miniPET_image2.png" width="45%" />
-  <img src="gallery/miniPET_image3.png" width="45%" />
+  <img src="gallery/miniPET_image2.png" width="40%" />
+  <img src="gallery/miniPET_image4.png" width="40%" />
 </p>
 <p align="center">
-  <img src="gallery/miniPET_image4.png" width="45%" />
-  <img src="gallery/miniPET_image5.png" width="45%" />
+  <img src="gallery/miniPET_image3.png" width="40%" />
+  <img src="gallery/miniPET_image5.png" width="40%" />
 </p>
 
 ---
