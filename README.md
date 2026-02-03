@@ -14,8 +14,11 @@ The internal logic of the miniPET is derived directly from the modular boards of
 The system's "brain" and memory management are based on the high-reliability design of the BO6502:
 * **CPU:** Western Design Center **W65C02S**, allowing for modern high-speed operation while maintaining full 6502 compatibility. Reference: [BO6502 CPU](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20CPU).
 * **Clock:** System operates with a stable **1MHz** clock frequency. Reference: [BO6502 Reset/Clock Module](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20RESET).
-* **Memory Map:** * **RAM:** 32KB Static RAM. Reference: [BO6502 RAM](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20RAM).
-    * **ROM:** EEPROM-based storage for firmware and BASIC. Reference: [BO6502 ROM](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20ROM).
+
+### 🗺️ Memory Map
+The memory layout is organized to ensure compatibility with the system firmware and modular hardware:
+* **RAM (32KB):** Mapped from **$0000** to **$7FFF**. Reference: [BO6502 RAM](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20RAM).
+* **ROM (32KB):** Mapped from **$8000** to **$FFFF**. Reference: [BO6502 ROM](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20ROM).
 
 ### 📟 Display Interface (BIGLCD)
 The visual output is handled by the **BIGLCD** module. 
