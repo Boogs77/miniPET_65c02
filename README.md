@@ -1,4 +1,4 @@
-# Boogs77-miniPET: 65C02-Based Retro Computer
+# miniPET: 65C02-Based Retro Computer
 
 ![Main Photo](gallery/miniPET_image1.png)
 
