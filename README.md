@@ -37,6 +37,15 @@ Asynchronous communication is provided for external terminal access.
 
 ---
 
+## 💻 Software & Firmware
+
+The Boogs77-miniPET features a classic software environment for 6502 enthusiasts:
+* **System Monitor:** The computer implements the legendary **Wozmon** monitor, providing a low-level interface for memory inspection and machine code execution.
+* **Microsoft BASIC:** The firmware includes **MS BASIC**, allowing for high-level programming.
+* **Execution:** BASIC can be launched directly from the monitor by executing from location **$8000**.
+
+---
+
 ## 🏗️ Enclosure & 3D Design
 
 One of the most distinctive features of this project is its custom case, modified using **Autodesk Fusion 360** from the original design at [commodorepetmini.com](https://commodorepetmini.com/). The case was printed on an **Anycubic Kobra S1**.
@@ -63,12 +72,17 @@ One of the most distinctive features of this project is its custom case, modifie
 
 ---
 
-## 🔗 Useful PCB Links
+## 🔗 Useful Links & Resources
 
-To replicate this build, the following PCB layouts are required:
-* [Main System Logic (CPU/RAM/ROM)](https://github.com/Boogs77/Boogs77-miniPET_65c02/tree/main/eagle)
-* [KeyBoard Matrix PCB](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20KEYb)
-* [BIGLCD Interface PCB](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20BIGLCD)
+To replicate this build, you can refer to the following hardware files:
+
+* **Eagle Design Files:** [Project PCB Schematics & Layouts](https://github.com/Boogs77/Boogs77-miniPET_65c02/tree/main/eagle)
+* **CPU Module:** [BO6502 CPU Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20CPU)
+* **ROM Module:** [BO6502 ROM Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20ROM)
+* **RAM Module:** [BO6502 RAM Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20RAM)
+* **Serial Module:** [BO6502 Serial Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20SERIAL)
+* **Keyboard Module:** [BO6502 KeyBoard Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20KEYb)
+* **Display Module:** [BO6502 BIGLCD Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20BIGLCD)
 
 ---
 
