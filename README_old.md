@@ -43,9 +43,6 @@ The Boogs77-miniPET features a classic software environment for 6502 enthusiasts
 * **System Monitor:** The computer implements the legendary **Wozmon** monitor, providing a low-level interface for memory inspection and machine code execution.
 * **Microsoft BASIC:** The firmware includes **MS BASIC**, allowing for high-level programming.
 * **Execution:** BASIC can be launched directly from the monitor by executing from location **$8000**.
-* **Games:** The ROM includes four classic games (Hamurabi, Civil War 1861, Bowling, Lunar Lander), available in both Italian and English.
-
-👉 **[View Full ROM Software Documentation](https://github.com/Boogs77/miniPET_65c02/blob/main/rom%20software/README.md)**
 
 ---
 
@@ -79,7 +76,6 @@ One of the most distinctive features of this project is its custom case, modifie
 
 To replicate this build, you can refer to the following hardware files:
 
-* **ROM Software:** [Firmware, Drivers & Games Documentation](https://github.com/Boogs77/miniPET_65c02/blob/main/rom%20software/README.md)
 * **Eagle Design Files:** [Project PCB Schematics & Layouts](https://github.com/Boogs77/Boogs77-miniPET_65c02/tree/main/eagle)
 * **CPU Module:** [BO6502 CPU Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20CPU)
 * **ROM Module:** [BO6502 ROM Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20ROM)
