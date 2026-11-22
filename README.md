@@ -81,6 +81,13 @@ The miniPET is fully tested on the real board: everything works.
 
 ---
 
+## 🎬 Videos
+
+Five-minute explanatory videos, in Italian and English, with subtitles:
+
+* **The miniPET, a 65C02 computer inspired by the Commodore PET**: [Italiano](https://youtu.be/zobRBSW0yw4) · [English](https://youtu.be/ZKR6lfdHAPM)
+* **The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502**: [Italiano](https://youtu.be/3ln8cZt3MQk) · [English](https://youtu.be/d8nvmrTR-eE)
+
 ## 🔗 Useful Links & Resources
 
 To replicate this build, you can refer to the following hardware files:
