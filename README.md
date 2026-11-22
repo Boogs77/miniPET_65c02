@@ -75,6 +75,12 @@ One of the most distinctive features of this project is its custom case, modifie
 
 ---
 
+## ✅ Tested Hardware
+
+The miniPET is fully tested on the real board: everything works.
+
+---
+
 ## 🔗 Useful Links & Resources
 
 To replicate this build, you can refer to the following hardware files:
