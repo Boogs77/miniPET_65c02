@@ -83,10 +83,21 @@ The miniPET is fully tested on the real board: everything works.
 
 ## 🎬 Videos
 
-Five-minute explanatory videos, in Italian and English, with subtitles:
+Five-minute explanatory videos, in Italian and English, with subtitles. Click a picture to watch the video on YouTube.
 
-* **The miniPET, a 65C02 computer inspired by the Commodore PET**: [Italiano](https://youtu.be/zobRBSW0yw4) · [English](https://youtu.be/ZKR6lfdHAPM)
-* **The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502**: [Italiano](https://youtu.be/3ln8cZt3MQk) · [English](https://youtu.be/d8nvmrTR-eE)
+**The miniPET, a 65C02 computer inspired by the Commodore PET**
+
+<table><tr>
+<td align="center"><a href="https://youtu.be/zobRBSW0yw4"><img src="https://img.youtube.com/vi/zobRBSW0yw4/mqdefault.jpg" width="300" alt="The miniPET, a 65C02 computer inspired by the Commodore PET (Italiano)"></a><br>Italiano</td>
+<td align="center"><a href="https://youtu.be/ZKR6lfdHAPM"><img src="https://img.youtube.com/vi/ZKR6lfdHAPM/mqdefault.jpg" width="300" alt="The miniPET, a 65C02 computer inspired by the Commodore PET (English)"></a><br>English</td>
+</tr></table>
+
+**The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502**
+
+<table><tr>
+<td align="center"><a href="https://youtu.be/3ln8cZt3MQk"><img src="https://img.youtube.com/vi/3ln8cZt3MQk/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (Italiano)"></a><br>Italiano</td>
+<td align="center"><a href="https://youtu.be/d8nvmrTR-eE"><img src="https://img.youtube.com/vi/d8nvmrTR-eE/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (English)"></a><br>English</td>
+</tr></table>
 
 ## 🔗 Useful Links & Resources
 
