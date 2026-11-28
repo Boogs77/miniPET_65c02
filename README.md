@@ -97,6 +97,7 @@ Five-minute explanatory videos, in Italian and English, with subtitles. Click a 
 To replicate this build, you can refer to the following hardware files:
 
 * **ROM Software:** [Firmware, Drivers & Games Documentation](https://github.com/Boogs77/miniPET_65c02/blob/main/rom%20software/README.md)
+* **Gerber and schematic:** [Gerber files (ZIP)](export/miniPET_gerber.zip) · [Schematic and PCB (PDF)](export/miniPET.pdf)
 * **Eagle Design Files:** [Project PCB Schematics & Layouts](https://github.com/Boogs77/Boogs77-miniPET_65c02/tree/main/eagle)
 * **CPU Module:** [BO6502 CPU Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20CPU)
 * **ROM Module:** [BO6502 ROM Reference](https://github.com/Boogs77/BO6502_65C02-based_modular_computer/tree/main/BO6502%20ROM)
